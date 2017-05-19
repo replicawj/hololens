@@ -1,0 +1,24 @@
+﻿body {
+    text-align:center;
+}
+
+table {
+    margin-left:auto;
+    margin-right:auto;
+}
+
+h2 {
+    background-color:black;
+    color:white;
+    height:1.4em;
+    border-radius:25px;
+}
+
+#Button1, #Button2 {
+    background-color: lime;
+    font-size: 1.2em;
+    border-radius:15px;
+    padding-top:5px;
+    padding-bottom:5px;
+    width:40%;
+}
